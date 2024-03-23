@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "Your Own API"
