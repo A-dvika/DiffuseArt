@@ -2,6 +2,10 @@
 
 Welcome to Diffuse-Art, an innovative image generation application powered by Stable Diffusion, an open-source state-of-the-art (SOTA) model for text-to-image generation from Stability AI. In this project, we focus on utilizing the Stable Diff model through Hugging Face Diffusers and building an intuitive application using both Tkinter and Streamlit desktop with NVIDIA RTX 3050 4GB GPU support.
 
+https://github.com/A-dvika/DiffuseArt/assets/115079077/e9ef48ab-a986-4a17-b24a-cf44ab8ea49c
+
+
+
 ## Features
 
 ✨ Generate captivating digital artworks using Stable Diffusion algorithms  
